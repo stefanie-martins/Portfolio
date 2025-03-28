@@ -36,7 +36,7 @@ document.querySelectorAll('.btn-leia-mais').forEach(button => {
 
 document.querySelector('.btn_download').addEventListener('click', function() {
 
-    const filePath = './curriculo/Stefanie_Martins.pdf';
+    const filePath = './curriculo/Stefanie_Martins_Curriculo.pdf';
 
     const link = document.createElement('a');
 
